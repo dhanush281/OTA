@@ -1,6 +1,12 @@
 Changelog
 =========
 
+12/09/2026
+---------------
+- sm8350-common: Enable CameraX extensions support
+- sm8350-common: rootdir: Update missing dirs
+- sm8350-common: Switch to prebuilt libtinycompress
+
 04/09/2026
 ---------------
 - sm8350-common: Update GPS from BSP
