@@ -1,6 +1,12 @@
 Changelog
 =========
 
+12/09/2026
+- Revamp LunarisDolby UI
+- Add OnePlus Camera
+- Add Torch Strength
+- Merge latest source changes
+
 05/09/2026
 ----------
 - Initial Official Release for Avicii
