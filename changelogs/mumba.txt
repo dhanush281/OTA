@@ -1,6 +1,11 @@
 Changelog
 =========
 
+13/09/2026
+- Revamp LunarisDolby UI
+- Add MotCamera5
+- Add Torch Strength
+
 27/08/2026
 - Implement LunarisDolby
 - Update Blobs to W1WAAS36.48-12-40-4
