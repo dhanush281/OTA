@@ -1,5 +1,24 @@
 Changelog
 =========
+
+13/09/26
+- dolby: kang dax-defualt from aospa
+- sm8450-common: Disable all CLO-specific perf features
+- sm8450-common: sensors: Avoid NULL pointer dereference in activate
+- sm8450-common: remove some props
+- sm8450-common: tune dalvik heap for 8/12gb variant
+- sm8450-common: powerhint: Tweak some values for efficiency
+- sm8450-common: Optimizing dalvik heap configs
+- sm8450-common: init: Configure uclamp defaults
+- dolby: fix missing comma in mainContributors list
+- dolby: Add AutoEQ headphone correction profiles contributor entry
+- dolby: Add persian translations
+- dolby: Redesign main card banner with Dolby logo
+- dolby: Add per-band fine tuner to equalizer
+- dolby: Simplify translation contributor definitions
+- dolby: Add stacked animated avatars with multi-contributor support
+- dolby: Add Vietnamese translations
+
 13/08/26
 - further reduce config_highResTaskSnapshotScale
 - Set max cached processes 256
